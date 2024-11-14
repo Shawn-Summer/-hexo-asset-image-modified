@@ -1,9 +1,8 @@
 # hexo-asset-image-modified
 
+A hexo plugin to load local image . 
 This is a modified version of the hexo-asset-image.
 I fix the bug unable to load image in hexo 5 or the  newer version and change its usage too.
-
-Give asset image in hexo a absolutely path automatically
 
 # Usege
 

@@ -1,14 +1,14 @@
 {
-  "name": "hexo-asset-image",
+  "name": "hexo-asset-image-modified",
   "version": "1.0.0",
-  "description": "Give asset image in hexo a absolutely path automatically",
+  "description": "A hexo plugin to load local image ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "hexo",
-    "iamge",
+    "image",
     "asset",
     "path"
   ],
